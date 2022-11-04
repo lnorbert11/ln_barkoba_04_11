@@ -4,3 +4,4 @@ Személy?  - Nem
 Élőlény? - Nem
 Tárgy?
 Igen
+Használati tárgy?
