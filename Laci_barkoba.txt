@@ -3,3 +3,4 @@ Hali!
 Személy?  - Nem
 Élőlény? - Nem
 Tárgy?
+Igen
